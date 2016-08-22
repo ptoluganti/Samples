@@ -3,3 +3,7 @@
 ################################################################################
 
 /MarsSample/bin/Debug
+/MarsSample/obj/Debug
+/MarsSample.Tests/obj/Debug
+/MarsSample.Tests/bin/Debug
+/packages/NUnit.3.4.1
